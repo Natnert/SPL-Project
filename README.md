@@ -2,6 +2,7 @@
 
 # Dynamic Typing vs Static Typing(Python vs C++)
 Python is a dynamically typed language, meaning the type of the variable does not have to be declared when assigning a value to it. The type is decided at runtime of the program and can be changed throughout its lifecycle, which unfortunately means the code could result in an error if its run but the developer won’t know that unless that specific line is run. 
+
 Example Python Code:
   ![image](https://user-images.githubusercontent.com/20974299/145721504-f0fb4928-1c99-498e-83fc-ffc382b1b35b.png)
 
