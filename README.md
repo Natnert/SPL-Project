@@ -14,7 +14,7 @@ Output:
 
 C++ is a statically typed language, which requires types to be defined and declared before the program is compiled, and once compiled they are unable to be changed. The first example below show an if statement that is not satisfied, yet the statement must be compliable before the program is executed. The second example shows a variable declared as an integer attempting to be reassigned a type and failing to compile.	
 Example 1:  If Statement
- ![image](https://user-images.githubusercontent.com/20974299/145721515-683e2e53-f712-4247-95af-b20fe4f0e647.png)
+ ![image](https://user-images.githubusercontent.com/20974299/145727811-fbb3e372-94d5-4510-ad50-c92cf9dead8b.png)
 
 Example 2: Reassigning Variable Type
  ![image](https://user-images.githubusercontent.com/20974299/145721518-f53d7703-937b-4f20-8857-c6666cc04ce2.png)
